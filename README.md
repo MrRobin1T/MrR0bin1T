@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" width="39" alt="Robert Moss | LinkedIn" src="https://github.com/robrn8r/robrn8r/assets/31335774/7fc9080f-32e5-4641-a8a5-0970e55cfc59" /> [Linkedin]
 
 
 
