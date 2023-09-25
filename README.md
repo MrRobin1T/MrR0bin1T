@@ -4,8 +4,6 @@
 
 - <b>TCM Security Windows Privilege Escalation</b>
   - [Windows Privilege Escalation](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
-- <b>Home Lab</b>
-  - [Home Lab Setup](https://github.com/robrn8r/Home-Lab)
 - <b>Python</b>
   - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
   - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers)
