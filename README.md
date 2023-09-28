@@ -6,7 +6,7 @@
   - [Windows Privilege Escalation](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 - <b>Python</b>
   - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
-  - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers)
+  - [Python 201 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers)
 
 <h2> 🔭 I’m currently working on ...</h2>
 
@@ -17,6 +17,8 @@
 
 - <b> TCM Security Practical Ethical Hacking</b>
   - [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+- <b>TCM Security Practical Junior Penetration Tester certification</b>
+  - [TCM Security PJPT]([https://certifications.tcm-sec.com/pjpt/](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83133853?key=5341a1d0a6662e0d63818abca14a8a9da7f98ecf5def57e478ad8bcaffa38a6e))
 
 <h2> 🤳 Connect with me:</h2>
 
