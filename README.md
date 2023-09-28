@@ -11,14 +11,15 @@
 <h2> 🔭 I’m currently working on ...</h2>
 
 - <b>TCM Security Network Penetration Tester certification</b>
-  - [TCM Security PJPT](https://certifications.tcm-sec.com/pnpt/)
+  - [TCM Security PNPT](https://certifications.tcm-sec.com/pnpt/)
 
 <h2> 😄 Completed coursework</h2>
 
 - <b> TCM Security Practical Ethical Hacking</b>
   - [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+
 - <b>TCM Security Practical Junior Penetration Tester certification</b>
-  - [TCM Security PJPT]([https://certifications.tcm-sec.com/pjpt/](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83133853?key=5341a1d0a6662e0d63818abca14a8a9da7f98ecf5def57e478ad8bcaffa38a6e)
+  - [TCM Security PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83133853?key=5341a1d0a6662e0d63818abca14a8a9da7f98ecf5def57e478ad8bcaffa38a6e)
 
 <h2> 🤳 Connect with me:</h2>
 
