@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Authority](README.md)
+* [Work in Progress](README.md)
   * [Steps to PWN](authority/steps-to-pwn.md)
 * [Unified](unified.md)
 * [Included](included.md)
