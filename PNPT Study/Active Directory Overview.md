@@ -38,10 +38,10 @@ At its core, Active Directory is an _**Identity and Access Management**_ suite
 
 I am repeating this concept of identities so much, cause they are truly the bedrock of Active Directory penetration testing (and defending). Your ability to penetrate an Active Directory network will only be as good as your ability to enumerate **users, computers, service accounts,** and **groups**.  
   
-What groups does this user belong to?  
-What resources do these groups have access to?  
-What file shares can this user access?  
-What specific permissions does this service account have?  
+[?] What groups does this user belong to?  
+[?] What resources do these groups have access to?  
+[?] What file shares can this user access?  
+[?] What specific permissions does this service account have?  
   
 That's why tools such as Bloodhound are so powerful, because they do the heavy lifting of enumerating these items and figuring out what kinds of access levels they have on the network.
 
@@ -60,24 +60,18 @@ I mention these, because even though **Active Directory Domain Services (AD DS)
 - **NetBIOS** ― A legacy protocol that allows hostname lookup and data transmission in a Local Area Network (LAN)
 - **LLMNR** ― A legacy protocol that allows computers in a LAN to do hostname to IP address lookups in a functionally similar way to DNS
 - **NetNTLM** ― Currently at NetNTLMv2, is a challenge-response authentication protocol that builds upon NTLM. Domain-joined computers will fall back to this protocol if Kerberos fails for any reason. Authenticates, does not authorize.  
-    
 
 **Some of the Core Active Directory Protocols and Services**
 
 - **DNS** ― Required to manage hostnames and IP addresses of various services accessed by users and computers
-- **DHCP** ― Ensures user computers and other registered systems can access the network  
-    
+- **DHCP** ― Ensures user computers and other registered systems can access the network    
 - **AD CS** ― Manages certificates issued to users, applications, and computers   
-    
 - **SMB** ― Allows users to upload, download, and modify directories and files on a central server
 - **LDAP/LDAPS** ― Allows users and applications to search and manage records in the Active Directory database  
-    
 - **Kerberos** ― Authenticates users and provides access to registered services and resources (does not authorize)
 - **RPC** ― Facilitates communications between user applications and services
 - **Group Policy** ― Centralized controls of user and computer account configurations
 - Etc.
-
- 
 
 The key takeaway from this lesson is that for all of the numerous parts that comprise Active Directory, the core functionality is to manage access and share data between users and computers on a single domain or between domains.  
   
