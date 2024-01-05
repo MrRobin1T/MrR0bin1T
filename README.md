@@ -2,6 +2,7 @@
 <h1> Hey,  I'm Robert! <br/><a href="https://github.com/robrn8r"></a></h1>
 
 <h2> 🌱 I’m currently learning ...</h2>
+
 - <b>Python</b>
   - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
   - [Python 201 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers)
