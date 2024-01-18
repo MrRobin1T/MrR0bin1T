@@ -1,36 +1,77 @@
+# Hi, I'm MrR0b1nIT, (Robert Moss)
 
-<h1> Hey,  I'm Robert! <br/><a href="https://github.com/robrn8r"></a></h1>
+## Team Lead, Information Security
 
-<h2> 🌱 I’m currently learning ...</h2>
+✉️ [robert.a.moss@protonmail.com](mailto:robert.a.moss@protonmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/robertmoss10/)
 
-- <b>Python</b>
-  - [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers)
-  - [Python 201 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers)
+---
 
-<h2> 🔭 I’m currently working on ...</h2>
+### 📝 Professional Summary
+A seasoned IT professional with over 19 years of experience in leading and implementing robust security initiatives. Specialized in optimizing security engineering processes, automating deployments, and managing global endpoint security. Known for reducing security incidents and increasing engineering efficiency. Holds current, industry-recognized certifications and excels in mentoring and developing junior staff.
 
-- <b>TCM Security Network Penetration Tester certification</b>
-  - [TCM Security PNPT](https://certifications.tcm-sec.com/pnpt/)
+---
 
-<h2> 😄 Completed Certs & coursework</h2>
+### 🏆 Certifications
+- **Security+ ce | CompTIA** (07/2023 - 07/2027)
+- **Practical Junior Penetration Tester (PJPT) | TCM Security** (09/2023)
 
-- <b> TCM Security Practical Ethical Hacking</b>
-  - [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+---
 
-- <b>TCM Security Windows Privilege Escalation</b>
-  - [Windows Privilege Escalation](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+### 💼 Core Competencies
+- Security Engineering & Architecture
+- Threat Detection & Response
+- Malware Analysis & Endpoint Security
+- Automation & Scripting (Powershell, Python)
+- Security Frameworks (NIST, MITRE ATT&CK)
+- SOAR Playbook Development
+- Penetration Testing & Vulnerability Assessment
 
-- <b>TCM Security Practical Junior Penetration Tester certification</b>
-  - [TCM Security PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83133853?key=5341a1d0a6662e0d63818abca14a8a9da7f98ecf5def57e478ad8bcaffa38a6e)
+---
 
-- <b> CompTIA Security+ ce </b>
-  - [CompTIA Security+ ce](https://www.credly.com/badges/eeb42746-3292-4999-8e09-dea9b17ea3b5/public_url)
+### 🛠 Professional Experience
 
+#### IT Operations Manager
+**Ingevity Corporation | North Charleston, SC** (04/2018 - 07/2023)
+- Pioneered security enhancements, reducing incidents by 75%.
+- Streamlined security deployment processes with automation.
+- Integrated BeyondTrust PowerBroker, enhancing security controls.
+- Directed the migration of 1800 users to Microsoft Edge.
+- Oversaw deployment of Cortex XDR endpoint agents.
 
-<h2> 🤳 Connect with me:</h2>
+#### Senior Technical Analyst (Security Focus)
+**Networking Technologies Support | Richmond, VA** (05/2016 - 04/2018)
+- Implemented IBM BigFix for endpoint security.
+- Conducted regular security assessments.
 
-<img align="left" width="39" alt="Robert Moss | LinkedIn" src="https://github.com/robrn8r/robrn8r/assets/31335774/7fc9080f-32e5-4641-a8a5-0970e55cfc59" /> [Linkedin]
+#### Infrastructure Management Team Lead
+**Atos | Richmond, VA** (04/2006 - 04/2016)
+- Managed client desktop security.
+- Proficient in IBM BigFix, Microsoft WSUS, and Group Policy Management.
 
+---
 
+### 🌟 Projects
+- **Active Directory Pentest MECM (SCCM) Lab Training**
+- **TCM Security Training**
+- **Wazuh Security Information and Event Management (SIEM) solution Training**
 
-[linkedin]: https://www.linkedin.com/in/robertmoss10/
+---
+
+### 🛠️ Technical Skills
+- Security Orchestration & Automation
+- Endpoint Security & Management (Cortex XDR, IBM BigFix)
+- Scripting & Automation (PowerShell, Python)
+- Network & System Security
+- Vulnerability & Penetration Testing
+- Cybersecurity Frameworks (NIST, MITRE ATT&CK)
+
+---
+
+### 📬 Contact
+Feel free to reach out for collaborations or questions regarding security and technology. I am always open to discussing new projects or opportunities.
+
+📧 [Email Me](mailto:robert.a.moss@protonmail.com)
+
+---
+
+> "Embracing the challenges of tomorrow with the knowledge and expertise of today."
