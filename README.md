@@ -1,3 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+
 # Hi, I'm MrR0b1nIT, (Robert Moss)
 
 ## Team Lead, Information Security
