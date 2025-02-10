@@ -7,5 +7,6 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 # Welcome to My Cybersecurity Blog
 
 
-## Latest Post
+## Latest Posts
 - [Understanding SIEM and MDR: A Guide to Proactive Cybersecurity](siem-mdr-guide.md)
+- [Demystifying Conditional Access: A Key to Modern Security](conditional-access.md)
