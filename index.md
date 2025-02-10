@@ -10,3 +10,4 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 ## Latest Posts
 - [Understanding SIEM and MDR: A Guide to Proactive Cybersecurity](siem-mdr-guide.md)
 - [Demystifying Conditional Access: A Key to Modern Security](conditional-access.md)
+- [Protecting Sensitive Data with Azure Data Loss Prevention (DLP)](azure-dlp.md)
