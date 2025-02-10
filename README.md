@@ -1,8 +1,3 @@
-# Hi, I'm MrR0b1nIT, (Mr. Rob in IT)
-
-✉️ [robert.a.moss@protonmail.com](mailto:robert.a.moss@protonmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/robertmoss10/)
-
----
 
 **Understanding SIEM and MDR: A Guide to Proactive Cybersecurity**
 
